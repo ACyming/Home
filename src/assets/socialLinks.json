@@ -3,19 +3,19 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/China-Fan"
+    "url": "https://github.com/ACyming"
   },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/1094927181"
+    "url": "https://space.bilibili.com"
   },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "找我有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1062362277"
+    "url": "https://res.abeim.cn/api/qq/?qq="
   },
   {
     "name": "Email",
@@ -26,13 +26,7 @@
   {
     "name": "Luogu",
     "icon": "Book",
-    "tip": "我叫 @ 沐咕 ~",
-    "url": "https://www.luogu.com.cn/user/695833"
-  },
-  {
-    "name": "Hydro",
-    "icon": "Book",
-    "tip": "我叫 @ ChinaFan ~",
-    "url": "https://hydro.ac/user/45204"
+    "tip": "我叫 @ hymcr05 ~",
+    "url": "https://www.luogu.com.cn/user/947007"
   }
 ]
