@@ -18,14 +18,8 @@
     "url": "https://res.abeim.cn/api/qq/?qq="
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "XiaofanMango@outlook.com"
-  },
-  {
     "name": "Luogu",
-    "icon": "Book",
+    "icon": "/images/icon/email.png",
     "tip": "我叫 @ hymcr05 ~",
     "url": "https://www.luogu.com.cn/user/947007"
   }
