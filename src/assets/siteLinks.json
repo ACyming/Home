@@ -1,6 +1,12 @@
 [
   {
     "icon": "Book",
+    "name": "我的博客",
+    "link": "https://www.hymcr05.fun/"
+  },
+
+  {
+    "icon": "Book",
     "name": "洛谷",
     "link": "https://www.luogu.com.cn/"
   },
@@ -37,7 +43,7 @@
   {
     "icon": "Book",
     "name": "AI2",
-    "link": "yiyan.baidu.com"
+    "link": "https://yiyan.baidu.com"
   },
   {
     "icon": "Book",
